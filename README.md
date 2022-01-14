@@ -15,6 +15,11 @@ Make a temporary directory and `cd` into it:
 :tempd
 ```
 
+Add a mapping to `~/.config/ranger/rc.conf` to do it easily:
+```
+map gw tempd
+```
+
 
 ## License
 MIT
